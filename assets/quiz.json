@@ -1,0 +1,201 @@
+{
+    "results": [
+    {
+        "question": "Uki-otoshi is part of the Nage no Kata and in English is called:",
+        "correct_answer": "Floating drop",
+        "incorrect_answers": [
+            "Hand drop",
+            "Hip drop",
+            "Kneeling drop"
+        ]
+    },
+    {
+        "question": "How many categories of throwing techniques are there in the Nage no Kata?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "4",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "question": "When we practice Nage no Kata we are practicing ",
+        "correct_answer": "Throwing forms",
+        "incorrect_answers": [
+            "Grappling forms",
+            "Free exercise forms",
+            "All Judo forms"
+        ]
+    },
+    {
+        "question": "Nage no Kata includes:",
+        "correct_answer": "Yoko-sutemi-waza",
+        "incorrect_answers": [
+            "Shime-waza",
+            "Kesa-gatame",
+            "Kansetsu-waza"
+        ]
+    },
+    {
+        "question": "Which one of these is not included in the Koshi-waza category in Nage no Kata?",
+        "correct_answer": "Uki-waza",
+        "incorrect_answers": [
+            "Uki-goshi",
+            "Harai-goshi",
+            "Tsurikomi-goshi"
+        ]
+    },
+    {
+        "question": "Uchi-mata is part of which Nage no Kata category?",
+        "correct_answer": "Ashi-waza",
+        "incorrect_answers": [
+            "Te-waza",
+            "Koshi-waza",
+            "Ma-sutemi-waza"
+        ]
+    },
+    {
+        "question": "Ura-nage is part of which Nage no Kata category?",
+        "correct_answer": "Ma-sutemi-waza",
+        "incorrect_answers": [
+            "Koshi-waza",
+            "Ashi-waza",
+            "Yoko-sutemi-waza"
+        ]
+    },
+    {
+        "question": "The Yoko-sutemi-waza category in Nage no Kata includes Yoko-gake, Yoko-guruma, and",
+        "correct_answer": "Uki-waza",
+        "incorrect_answers": [
+            "Uchi-mata",
+            "Tomoe-nage",
+            "Yoko-tomoe-nage"
+        ]
+    },
+    {
+        "question": "How many throwing techniques are in each of the Nage no Kata categories?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "question": "The Koshi-waza category in Nage no Kata includes Tsurikomi-goshi, Harai-goshi, and",
+        "correct_answer": "Uki-goshi",
+        "incorrect_answers": [
+            "Uki-otoshi",
+            "Sumi-gaeshi",
+            "Uchi-mata"
+        ]
+    },
+    {
+        "question": "Nage no Kata categories are: Te-waza, Koshi-waza, Ashi-waza, Yoko-sutemi-waza, and",
+        "correct_answer": "Ma-sutemi-waza",
+        "incorrect_answers": [
+            "Shime-waza",
+            "Uki-waza",
+            "Kansetsu-waza"
+        ]
+    },
+    {
+        "question": "Tai-otoshi or body drop belongs to the following Nage no Kata category:",
+        "correct_answer": "None",
+        "incorrect_answers": [
+            "Ashi-waza",
+            "Te-waza",
+            "Koshi-waza"
+        ]
+    },
+    {
+        "question": "Uki-otoshi Seoi-nage and Kata-guruma belong to which Nage no Kata category?",
+        "correct_answer": "Te-waza",
+        "incorrect_answers": [
+            "None",
+            "Ashi-waza",
+            "Ma-sutemi-waza"
+        ]
+    },
+    {
+        "question": "Tomoe-nage, Ura-nage, and Sumi-gaeshi belong to which Nage no Kata category?",
+        "correct_answer": "Ma-sutemi-waza",
+        "incorrect_answers": [
+            "None",
+            "Te-waza",
+            "Koshi-waza"
+        ]
+    },
+    {
+        "question": "Yoko-gake, Yoko-guruma, and Uki-waza belong to which Nage no Kata category?",
+        "correct_answer": "Yoko-sutemi-waza",
+        "incorrect_answers": [
+            "Te-waza",
+            "Koshi-waza",
+            "Ma-sutemi-waza"
+        ]
+    },
+    {
+        "question": "Tai-otoshi, Tsuri-goshi, and O-goshi belong to which Nage no Kata category?",
+        "correct_answer": "None",
+        "incorrect_answers": [
+            "Te-waza",
+            "Koshi-waza",
+            "Ashi-waza"
+        ]
+    },
+    {
+        "question": "Okuri-ashi-harai, Sasae-trsurikomi-ashi, and Uchi-mata belong to which Nage no Kata category?",
+        "correct_answer": "Ashi-waza",
+        "incorrect_answers": [
+            "None",
+            "Te-waza",
+            "Koshi-waza"
+        ]
+    },
+    {
+        "question": "Uki-goshi, Harai-goshi, and Tsurikomi-goshi belong to which Nage no Kata category?",
+        "correct_answer": "Koshi-waza",
+        "incorrect_answers": [
+            "Te-waza",
+            "Ashi-waza",
+            "Ma-sutemi-waza"
+        ]
+    },
+    {
+        "question": "The Lift pull hip throw (Trusikomi-goshi) is part of which category of Nage no Kata?",
+        "correct_answer": "Koshi-waza",
+        "incorrect_answers": [
+            "Te-waza",
+            "Kansetsu-waza",
+            "Ashi-waza"
+        ]
+    },
+    {
+        "question": "This is the total number of throwing techniqes within the Nage no Kata:",
+        "correct_answer": "15",
+        "incorrect_answers": [
+            "12",
+            "20",
+            "18"
+        ]
+    },
+    {
+        "question": "All the throwing techniques have to be demonstrated with right and left side throws.",
+        "correct_answer": "Yes",
+        "incorrect_answers": [
+            "Only right side",
+            " Only left side",
+            " No"
+        ]
+    },
+    {
+        "question": "How many sacrifice techniques groups are there in Nage no Kata?",
+        "correct_answer": "Two",
+        "incorrect_answers": [
+            "One",
+            "Three",
+            "None"
+        ]
+    }]
+}

@@ -1,0 +1,94 @@
+{
+    "results": [
+    {
+        "question": "Exercises for solo practice that lead to Kata and correct judo form",
+        "correct_answer": "Tandoku Renshu",
+        "incorrect_answers": [
+            "Kusushi",
+            "Waza",
+            "Ashi"
+        ]
+    },
+    {
+        "question": "Grip fighting form/technique",
+        "correct_answer": "Kumi Kata",
+        "incorrect_answers": [
+            "Ashi-waza",
+            "Tachi-waza",
+            "Kansetsu-waza"
+        ]
+    },
+    {
+
+        "question": "Standing techniques",
+        "correct_answer": "Tachi-waza",
+        "incorrect_answers": [
+            "Ne-waza",
+            "Shime-waza",
+            "Te-waza"
+        ]
+    },
+    {
+        "question": "Foot or leg techniques",
+        "correct_answer": "Ashi-waza",
+        "incorrect_answers": [
+            "Koshi-waza",
+            "Ne-waza",
+            "Shime-waza"
+        ]
+    },
+    {
+        "question": "Strangling techniques",
+        "correct_answer": "Shime-waza",
+        "incorrect_answers": [
+            "Kansetsu-waza",
+            "Te-waza",
+            "Kumi Kata"
+        ]
+    },
+    {
+        "question": "Hand techniques",
+        "correct_answer": "Te-waza",
+        "incorrect_answers": [
+            "Koshi-waza",
+            "Kansetsu-waza",
+            "Ashi-waza"
+        ]
+    },
+    {
+        "question": "Hip techniques",
+        "correct_answer": "Koshi-waza",
+        "incorrect_answers": [
+            "Ne-waza",
+            "Nage no Kata",
+            "Shime-waza"
+        ]
+    },
+    {
+        "question": "Technique",
+        "correct_answer": "Waza",
+        "incorrect_answers": [
+            "Shime",
+            "Tachi",
+            "Koshi"
+        ]
+    },
+    {
+        "question": "Locking techniques",
+        "correct_answer": "Kansetsu-waza",
+        "incorrect_answers": [
+            "Shime-waza",
+            "Te-waza",
+            "Tachi-waza"
+        ]
+    },
+    {
+        "question": "Ground techniques",
+        "correct_answer": "Ne-waza",
+        "incorrect_answers": [
+            "Koshi-waza",
+            "Te-waza",
+            "Koshi-waza"
+        ]
+    }]
+}
